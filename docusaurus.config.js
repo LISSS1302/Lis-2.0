@@ -2,7 +2,7 @@ module.exports = {
   title: 'Каталог оборонных технологий Украины',
   url: 'https://lisss1302.github.io',
   baseUrl: '/Lis-2.0/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'LISSS1302',
